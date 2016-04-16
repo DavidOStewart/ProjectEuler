@@ -1,0 +1,3 @@
+f = open("small.in")
+
+x = int(f.readline())
